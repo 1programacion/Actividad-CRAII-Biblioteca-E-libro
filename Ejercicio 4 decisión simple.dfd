@@ -1,0 +1,42 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+71
+'Por favor dijite los valores de l,n,x respectivamente de la ecuacion '
+5
+1
+5
+l,n,x
+6
+1
+7
+divisor
+7
+n^2 + x
+7
+0
+1
+12
+divisor != 0
+4
+1
+7
+'Error'
+13
+6
+1
+9
+resultado
+21
+L * (n - 3) / divisor
+4
+1
+9
+resultado
+13
+1

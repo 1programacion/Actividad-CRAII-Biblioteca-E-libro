@@ -1,0 +1,94 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+106
+'Escriba su nombre y la inicial de su estado civil respectivamente entre comillas          ej:soltero = s'
+5
+1
+12
+nombre,letra
+7
+0
+1
+10
+letra= 's'
+7
+0
+1
+9
+letra='c'
+7
+0
+1
+9
+letra='v'
+7
+0
+1
+9
+letra='u'
+7
+0
+1
+9
+letra='o'
+4
+1
+35
+'Algo salio mal intentalo de nuevo'
+13
+4
+1
+23
+'su nombre es:',nombre 
+4
+1
+6
+'otro'
+13
+13
+4
+1
+23
+'su nombre es:',nombre 
+4
+1
+21
+'Esta en union libre'
+13
+13
+4
+1
+23
+'su nombre es:',nombre 
+4
+1
+12
+'Esta viud@'
+13
+13
+4
+1
+23
+'su nombre es:',nombre 
+4
+1
+13
+'Esta casad@'
+13
+13
+4
+1
+23
+'su nombre es:',nombre 
+4
+1
+14
+'Esta solter@'
+13
+1
